@@ -1,0 +1,15 @@
+
+:root {
+    --main-color: #00c8bb;
+    --main-color-hover: #006f6b;
+    --color-checkbox: rgba(0,160,154,0.25);
+    --error-color: #ef0c0c;
+}
+/* 6675df */
+/* 00c8bb */
+/* 00a09a */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
